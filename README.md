@@ -3,7 +3,8 @@ Python Program That Automatically Replies To New Feedback
 
 ## Credits
 Template - [Pixens](https://github.com/Pixens/auto-feedback-replier-sellix)
-- Our version is an upgrade as it impliments the ability to integrate sellix accounts with multiple stores on it. (Hence the store name needing to be added)
+
+Our version is an upgrade as it impliments the ability to integrate sellix accounts with multiple stores on it. (Hence the store name needing to be added)
 
 ## Requirements
 - Sellix API Key (e.g "ABIQIUYGWiugawdGAIUYsdwiGUYAsdiuygwalgAILGUwded")
@@ -12,7 +13,9 @@ Template - [Pixens](https://github.com/Pixens/auto-feedback-replier-sellix)
 - Delay (e.g "600")
 
 ## Contacts
+
 Discord - [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
 Telegram - [@evv404](https://evv404.t.me)
 
 ## Donations
