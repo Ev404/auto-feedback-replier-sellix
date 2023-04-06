@@ -1,0 +1,7 @@
+#This tool has been upgraded to support multiple shops | Credits: https://github.com/ev404
+
+api_key: "" # You sellix API key.
+store_name: "" # Store Name (For Multiple Stores) | Leave empty if no other stores on account.
+message: "Thanks for the feedback!" # Message you want to reply with.
+min_rating: "5" # Minimum amount of 'stars' for it to respond (1, 2, 3, 4 or 5)
+delay: 600 # Delay between checks, in seconds.
