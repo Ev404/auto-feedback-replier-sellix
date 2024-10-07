@@ -14,11 +14,11 @@ Our version is an upgrade as it impliments the ability to integrate sellix accou
 
 ## Contacts
 
-Discord - [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+Discord - @ev.vy
 
-Telegram - [@evv404](https://evv404.t.me)
+Telegram - Unavailable
 
 ## Donations
 Feel Free - Optional
-- BTC - bc1qted9r2sumr69mduuz8n7ujynhyyppsta45a39s
-- LTC - LQMsRt7TjYhtZHx3srp9G6bpZcuwzXncpb
+- BTC - 
+- LTC - 
